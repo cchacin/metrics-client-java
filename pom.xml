@@ -88,7 +88,7 @@
     <!--Dependency versions-->
     <arpnetworking.commons.version>1.7.1</arpnetworking.commons.version>
     <hamcrest.version>2.0.0.0</hamcrest.version>
-    <jackson.version>2.7.4</jackson.version>
+    <jackson.version>2.11.2</jackson.version>
     <json-jackson-coreutils.version>1.8</json-jackson-coreutils.version>
     <json-schema-core.version>1.2.5</json-schema-core.version>
     <json-schema-validator.version>2.2.6</json-schema-validator.version>
